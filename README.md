@@ -1,4 +1,4 @@
-This is a "turret" controlled by a joystick in order to move on the x, y, and z axis. Two servoes, 1 joystick, and and analog to digital converter (to interpret the joystick values) were used. 
+This is a "turret" controlled by a joystick in order to move on the x, y, and z axis. Two servoes, 1 joystick, and and analog to digital converter (to interpret the joystick values) were used. This project was done on a raspberry pi 4 b. 
 
 video 2x speed to get around the file size limit 
 
